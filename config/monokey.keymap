@@ -10,6 +10,8 @@
 &mt {
     flavor = "balanced";
     quick-tap-ms = <300>;
+    tapping-term-ms = <250>;
+    require-prior-idle-ms = <150>;
 };
 
 &lt { quick-tap-ms = <300>; };

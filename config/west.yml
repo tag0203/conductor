@@ -17,8 +17,8 @@ manifest:
       remote: pite1222
       revision: main
     - name: zmk-rgbled-widget
-      remote: pite1222
-      revision: critical-steady-light
+      remote: caksoylar
+      revision: v0.3
     - name: zmk-feature-charge-indicator  # <-- new entry
       remote: 4mplelab
       revision: main
